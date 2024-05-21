@@ -1,0 +1,78 @@
+
+.main{
+    margin: 0;
+    overflow: hidden;
+ 
+}
+.sticky-nav{
+    background-color:  #DCF9E2;
+    width:1,919px;
+    height:52px;
+    display: flex;
+    padding: 17px, 624px, 17px, 624px;
+    align-content: center;
+    justify-content: center;
+    gap: 10px
+}
+
+.menu-img{
+    width: 102px;
+    height: 58px;
+
+}
+.menu-items{
+    display: flex;
+    justify-content:flex-start;
+    margin-left: 10rem;
+}
+
+#menu-btns{
+   border: none;
+   background-color: transparent;
+   cursor: pointer;
+   color:  #7A8487;
+}
+
+#menu-con{
+    justify-content: center;
+    color: #114B5F;
+    background-color: transparent;
+    border: #114B5F;
+    margin: 10px;
+}
+
+#menu-hire{
+    justify-content: center;
+    background-color: #114B5F;
+    margin: 10px;
+    color: #F2F9FB;
+}
+.heading{
+     width: 803px;
+     height: 188px;
+     
+     font-family: 'Lufga';
+     font-style: normal;
+     font-weight: 600;
+     font-size: 14px;
+     line-height: 18px;
+     
+     color: #214027;
+}
+#head-km{
+    justify-content: center;
+    background-color: #114B5F;
+    margin: 10px;
+    color: #F2F9FB;
+
+}
+.card-1{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-self: center;
+    align-self: center; */
+    width: 1920px;
+    height: 1069px;
+    margin-top: 15px;
+    background-color: #114B5F;
+}
